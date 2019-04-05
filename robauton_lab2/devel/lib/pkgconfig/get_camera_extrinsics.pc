@@ -1,0 +1,8 @@
+prefix=/home/ashish/ws/robauton_lab2/devel
+
+Name: get_camera_extrinsics
+Description: Description of get_camera_extrinsics
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ashish/ws/robauton_lab2/devel/lib 
+Requires: 

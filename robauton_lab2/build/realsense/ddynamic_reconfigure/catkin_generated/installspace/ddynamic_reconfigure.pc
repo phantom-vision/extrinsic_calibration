@@ -1,0 +1,8 @@
+prefix=/home/ashish/ws/robauton_lab2/install
+
+Name: ddynamic_reconfigure
+Description: Description of ddynamic_reconfigure
+Version: 0.0.6
+Cflags: -I/home/ashish/ws/robauton_lab2/install/include
+Libs: -L/home/ashish/ws/robauton_lab2/install/lib -lddynamic_reconfigure
+Requires: 
